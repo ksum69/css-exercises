@@ -4,5 +4,8 @@
 }
 #second {
     color: rgb(25, 0, 255);
-    font-size: 36px
+    font-size: 36px;
+}
+.size {
+    font-size: 24px;
 }
